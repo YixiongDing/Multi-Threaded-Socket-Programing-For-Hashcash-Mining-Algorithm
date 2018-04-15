@@ -1,0 +1,19 @@
+Author: Yixiong Ding <yixiongd@student.unimelb.edu.au>, The University of Melbourne 
+Date: 25 May, 2017
+
+The aim of this multi-threaded program is to interacts with other programs over a network (socket programming).
+Specifically, this is a server-based proof-of-work solver for the Hashcash mining algorithm used in Bitcoin. Some 
+functions are implemented in the Simple Stratum Text Protocol (SSTP), which isused to format messages between clients 
+and the server program. Used the POSIX pthread library for multi-threaded tasks.
+
+Directions:
+
+1. Use command 'make' to create the executable file 'server'.
+
+2. The default port number is set to be 12345.
+
+3. You need relavent client.c to send messages to the server, or use 'nc localhost portnumber'.
+
+4. Maximum clients are 100.
+
+5. Maximum work messages are 10.

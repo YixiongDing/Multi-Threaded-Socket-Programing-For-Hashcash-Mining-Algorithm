@@ -1,0 +1,200 @@
+Time: 2017-05-25 22:10:11
+Client IP: 127.0.0.1
+Sock ID: 4
+-> Client Connected
+
+Time: 2017-05-25 22:10:11
+Client IP: 127.0.0.1
+Sock ID: 4
+Request from client: PING
+
+Time: 2017-05-25 22:10:11
+Client IP: 127.0.0.1
+Sock ID: 4
+Response to client: PONG
+
+Time: 2017-05-25 22:10:11
+Client IP: 127.0.0.1
+Sock ID: 4
+<- Client Disconnected
+
+Time: 2017-05-25 22:10:11
+Client IP: 127.0.0.1
+Sock ID: 4
+-> Client Connected
+
+Time: 2017-05-25 22:10:11
+Client IP: 127.0.0.1
+Sock ID: 4
+Request from client: SOLN 1fffffff 0000000019d6689c085ae165831e934ff763ae46a218a6c172b3f1b60a8ce26f 1000000023212147
+
+Time: 2017-05-25 22:10:11
+Client IP: 127.0.0.1
+Sock ID: 4
+Response to client: OKAY
+
+Time: 2017-05-25 22:10:11
+Client IP: 127.0.0.1
+Sock ID: 4
+<- Client Disconnected
+
+Time: 2017-05-25 22:10:11
+Client IP: 127.0.0.1
+Sock ID: 4
+-> Client Connected
+
+Time: 2017-05-25 22:10:11
+Client IP: 127.0.0.1
+Sock ID: 4
+Request from client: PING
+
+Time: 2017-05-25 22:10:11
+Client IP: 127.0.0.1
+Sock ID: 4
+Response to client: PONG
+
+Time: 2017-05-25 22:10:11
+Client IP: 127.0.0.1
+Sock ID: 4
+<- Client Disconnected
+
+Time: 2017-05-25 22:10:11
+Client IP: 127.0.0.1
+Sock ID: 4
+-> Client Connected
+
+Time: 2017-05-25 22:10:11
+Client IP: 127.0.0.1
+Sock ID: 4
+Request from client: WORK 1d29ffff 0000000019d6689c085ae165831e934ff763ae46a218a6c172b3f1b60a8ce26f c40000000ce40000 02
+
+Time: 2017-05-25 22:10:11
+Client IP: 127.0.0.1
+Sock ID: 4
+Response to client: SOLN 1d29ffff 0000000019d6689c085ae165831e934ff763ae46a218a6c172b3f1b60a8ce26f c40000000ce4b271
+
+Time: 2017-05-25 22:10:11
+Client IP: 127.0.0.1
+Sock ID: 4
+<- Client Disconnected
+
+Time: 2017-05-25 22:10:11
+Client IP: 127.0.0.1
+Sock ID: 4
+-> Client Connected
+
+Time: 2017-05-25 22:10:11
+Client IP: 127.0.0.1
+Sock ID: 4
+Request from client: PING
+
+Time: 2017-05-25 22:10:11
+Client IP: 127.0.0.1
+Sock ID: 4
+Response to client: PONG
+
+Time: 2017-05-25 22:10:11
+Client IP: 127.0.0.1
+Sock ID: 4
+<- Client Disconnected
+
+Time: 2017-05-25 22:10:11
+Client IP: 127.0.0.1
+Sock ID: 4
+-> Client Connected
+
+Time: 2017-05-25 22:10:11
+Client IP: 127.0.0.1
+Sock ID: 4
+Request from client: SOLN 1effffff 0000000019d6689c085ae165831e934ff763ae46a218a6c172b3f1b60a8ce26f 100000002321ed8f
+
+Time: 2017-05-25 22:10:11
+Client IP: 127.0.0.1
+Sock ID: 4
+Response to client: OKAY
+
+Time: 2017-05-25 22:10:11
+Client IP: 127.0.0.1
+Sock ID: 4
+<- Client Disconnected
+
+Time: 2017-05-25 22:10:11
+Client IP: 127.0.0.1
+Sock ID: 4
+-> Client Connected
+
+Time: 2017-05-25 22:10:11
+Client IP: 127.0.0.1
+Sock ID: 4
+Request from client: PING
+
+Time: 2017-05-25 22:10:11
+Client IP: 127.0.0.1
+Sock ID: 4
+Response to client: PONG
+
+Time: 2017-05-25 22:10:11
+Client IP: 127.0.0.1
+Sock ID: 4
+<- Client Disconnected
+
+Time: 2017-05-25 22:10:11
+Client IP: 127.0.0.1
+Sock ID: 4
+-> Client Connected
+
+Time: 2017-05-25 22:10:11
+Client IP: 127.0.0.1
+Sock ID: 4
+Request from client: WORK 1fffffff 0000000019d6689c085ae165831e934ff763ae46a218a6c172b3f1b60a8ce26f 1000000023212399 01
+
+Time: 2017-05-25 22:10:11
+Client IP: 127.0.0.1
+Sock ID: 4
+Response to client: SOLN 1fffffff 0000000019d6689c085ae165831e934ff763ae46a218a6c172b3f1b60a8ce26f 1000000023212605
+
+Time: 2017-05-25 22:10:11
+Client IP: 127.0.0.1
+Sock ID: 4
+<- Client Disconnected
+
+Time: 2017-05-25 22:10:11
+Client IP: 127.0.0.1
+Sock ID: 4
+-> Client Connected
+
+Time: 2017-05-25 22:10:11
+Client IP: 127.0.0.1
+Sock ID: 4
+Request from client: PING
+
+Time: 2017-05-25 22:10:11
+Client IP: 127.0.0.1
+Sock ID: 4
+Response to client: PONG
+
+Time: 2017-05-25 22:10:11
+Client IP: 127.0.0.1
+Sock ID: 4
+<- Client Disconnected
+
+Time: 2017-05-25 22:10:11
+Client IP: 127.0.0.1
+Sock ID: 4
+-> Client Connected
+
+Time: 2017-05-25 22:10:11
+Client IP: 127.0.0.1
+Sock ID: 4
+Request from client: WORK 1effffff 0000000019d6689c085ae165831e934ff763ae46a218a6c172b3f1b60a8ce26f 1000000023212399 04
+
+Time: 2017-05-25 22:10:11
+Client IP: 127.0.0.1
+Sock ID: 4
+Response to client: SOLN 1effffff 0000000019d6689c085ae165831e934ff763ae46a218a6c172b3f1b60a8ce26f 8800000011909977
+
+Time: 2017-05-25 22:10:11
+Client IP: 127.0.0.1
+Sock ID: 4
+<- Client Disconnected
+
